@@ -7,14 +7,14 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "GameList")
+@Table(name = "tb_game_list")
 public class GameList {
     
     // |=======| ATRIBUTOS |=======|
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
-    
+
     String name;
 
     // |=======| CONSTRUTORES |=======|

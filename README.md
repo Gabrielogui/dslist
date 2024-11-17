@@ -1,2 +1,2 @@
-# dslist
-Intensivo Java Spring
+# Projeto BackEnd Java SpringBoot
+Lista de Games

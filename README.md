@@ -8,8 +8,9 @@ O usuário pode movimentar a lista, de cada gênero, mudando sua posição/ordem
 
 ## Tecnologias Utilizadas
 
--> Java
--> SpringBoot
--> JPA / Hibernate
--> Banco de dados H2
--> Docker
+- Java
+- SpringBoot
+- JPA / Hibernate
+- Banco de dados H2
+- Docker
+- PostgreeSql

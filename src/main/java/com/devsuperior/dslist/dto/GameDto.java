@@ -17,6 +17,7 @@ public class GameDto {
     private String shortDescription;
     private String longDescription;
 
+    // |=======| CONSTRUTORES |=======|
     public GameDto(){
     }
 
@@ -24,8 +25,8 @@ public class GameDto {
         BeanUtils.copyProperties(entity, this);
     }
 
-    // 
-    //
+    // |=======| MÉTODOS GETS E SETS |=======|
+    // ID:
     public Long getId() {
         return id;
     }
@@ -33,7 +34,7 @@ public class GameDto {
         this.id = id;
     }
 
-    //
+    // TÍTULO:
     public String getTitle() {
         return title;
     }
@@ -41,7 +42,7 @@ public class GameDto {
         this.title = title;
     }
 
-    //
+    // ANO:
     public Integer getYear() {
         return year;
     }
@@ -49,7 +50,7 @@ public class GameDto {
         this.year = year;
     }
 
-    //
+    // GÊNERO:
     public String getGenre() {
         return genre;
     }
@@ -57,7 +58,7 @@ public class GameDto {
         this.genre = genre;
     }
 
-    //
+    // PLATAFORMA:
     public String getPlatforms() {
         return platforms;
     }
@@ -65,7 +66,7 @@ public class GameDto {
         this.platforms = platforms;
     }
 
-    //
+    // SCORE:
     public double getScore() {
         return score;
     }
@@ -73,7 +74,7 @@ public class GameDto {
         this.score = score;
     }
 
-    //
+    // URL DA IMAGEM:
     public String getImgUrl() {
         return imgUrl;
     }
@@ -81,7 +82,7 @@ public class GameDto {
         this.imgUrl = imgUrl;
     }
 
-    //
+    // DESCIÇÃO CURTA:
     public String getShortDescription() {
         return shortDescription;
     }
@@ -89,7 +90,7 @@ public class GameDto {
         this.shortDescription = shortDescription;
     }
 
-    //
+    // DESCRIÇÃO LONGA:
     public String getLongDescription() {
         return longDescription;
     }

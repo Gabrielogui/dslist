@@ -11,6 +11,7 @@ public class GameMinDto {
     private String imgUrl;
     private String shortDescription;
 
+    // |=======| CONSTRUTORES |=======|
     public GameMinDto() {
     }
 
@@ -30,6 +31,7 @@ public class GameMinDto {
         this.shortDescription = projection.getShortDescription();
     }
 
+    // |=======| MÉTODOS GETS |=======|
     public Long getId() {
         return id;
     }

@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.devsuperior.dslist.dto.GameListDto;
 import com.devsuperior.dslist.dto.GameMinDto;
 import com.devsuperior.dslist.dto.ReplacementDto;
-import com.devsuperior.dslist.projections.GameMinProjection;
 import com.devsuperior.dslist.services.GameListService;
 import com.devsuperior.dslist.services.GameService;
 

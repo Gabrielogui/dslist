@@ -34,4 +34,9 @@ O usuário pode movimentar a lista, de cada gênero, mudando sua posição/ordem
 | GET      | /games/{id}                 | Informa detalhes do game requerido            |
 | GET      | /lists                      | Informa os tipos de games                     |
 | GET      | /lists/{listId}/games       | Retorna todos os games de um determinado tipo |
-| POST     | /lists/{listId)/replacement | Movimenta a posição do game                   |
+| POST     | /lists/{listId}/replacement | Movimenta a posição do game                   |
+
+## Contato
+
+- Email: gabrielcsro@gmail.com
+- Linkedin: https://www.linkedin.com/in/gabriel-rodrigues-a551012a2/

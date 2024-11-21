@@ -3,8 +3,7 @@ Lista de Games 🎮
 
 ## Sobre o Projeto
 
-Este é um projeto que disponibiliza uma API de uma lista de jogos já cadastrados no qual você pode visualiza-las, vendo as informações curtas, ou buscar o jogo vendo todas as informações do game, além de reposicionar a lista. É um backend no qual cada game tem: Título, ano, plataforma, descrição, gênero e etc.
-O usuário pode movimentar a lista, de cada gênero, mudando sua posição/ordem em sua exibição. O FrontEnd ainda não foi feito.
+Este projeto é uma API desenvolvida para gerenciar uma lista de jogos previamente cadastrados, permitindo que usuários acessem e manipulem as informações dos games. A API oferece funcionalidades como: Vizualização dos jogos, movimentação da lista. Cada jogo inclui informações detalhadas, como: Título, ano de lançamento, Plataforna, Descrição, Gênero.
 
 ## Tecnologias Utilizadas
 

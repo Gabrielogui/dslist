@@ -23,6 +23,11 @@ Este projeto é uma API desenvolvida para gerenciar uma lista de jogos previamen
 2. Execute a aplicação com __mvn spring-boot:run__ ou Rode o arquivo __DslistApplication.Java__ que se localiza nas pastas: src -> main -> java -> com -> devsuperior -> dslist
 3. Acesse a API __'http://localhost:8080'__ com a rota desejada (Veja a tabela de rotas)
 
+## FrontEnd do Projeto:
+
+https://github.com/Gabrielogui/FrontEnd-appJava
+- Com ele, pode rodar os dois, tendo as experiências do backEnd com o front
+
 ## Estrutura do Projeto
 
 ## Rotas e EndPoints
